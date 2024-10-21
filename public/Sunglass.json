@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "brand": "Ray-Ban",
+        "model": "Wayfarer",
+        "color": "Black",
+        "price": 150.00,
+        "features": [
+            "UV Protection",
+            "Polarized",
+            "Scratch Resistant"
+        ],
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "brand": "Oakley",
+        "model": "Holbrook",
+        "color": "Matte Black",
+        "price": 180.00,
+        "features": [
+            "UV Protection",
+            "Polarized",
+            "High Definition Optics"
+        ],
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "brand": "Persol",
+        "model": "PO0649",
+        "color": "Havana",
+        "price": 220.00,
+        "features": [
+            "UV Protection",
+            "Scratch Resistant",
+            "Handmade"
+        ],
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "brand": "Gucci",
+        "model": "GG0061S",
+        "color": "Gold",
+        "price": 350.00,
+        "features": [
+            "UV Protection",
+            "Designer Style",
+            "Gradient Lenses"
+        ],
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "brand": "Maui Jim",
+        "model": "Breezeway",
+        "color": "Blue",
+        "price": 249.00,
+        "features": [
+            "UV Protection",
+            "Polarized",
+            "Lightweight"
+        ],
+        "inStock": true
+    }
+]
